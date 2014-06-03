@@ -1,0 +1,36 @@
+; This file is maintained by HCW. Do not modify this file directly.
+
+[OPTIONS]
+COMPRESS=12 Hall Zeck
+ERRORLOG=trekhelp.log
+LCID=0x409 0x0 0x0 ; English (United States)
+REPORT=Yes
+CONTENTS=Topic1
+TITLE=Star Trek Character Builder v3
+BMROOT=startup
+BMROOT=conception
+BMROOT=species
+BMROOT=personal
+BMROOT=prof
+BMROOT=finalization
+BMROOT=custom
+HLP=trekhelp.hlp
+
+[FILES]
+trekhelp.rtf
+
+[MAP]
+Topic1 1
+Topic2 2
+Topic3 3
+Topic4 4
+Topic5 5
+Topic6 6
+Topic7 7
+Topic8 8
+Topic9 9
+Topic10 10
+Topic11 11
+
+[WINDOWS]
+main="Star Trek Character Builder Help",(50,50,920,920),25604,(r14680063),(r12632256)
